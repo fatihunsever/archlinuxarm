@@ -14,7 +14,7 @@ ARCH_TARBALL = ArchLinuxARM-armv7-latest.tar.gz
 
 WORKING_KERNEL = linux-armv7-rc-4.13.rc7-1-armv7h.pkg.tar.xz
 
-UBOOT_VERSION = 2019.04
+UBOOT_VERSION = 2019.07
 UBOOT_TARBALL = u-boot-v$(UBOOT_VERSION).tar.gz
 UBOOT_DIR = u-boot-$(UBOOT_VERSION)
 
